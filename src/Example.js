@@ -9,6 +9,7 @@ export function Example() {
         values={{ ts: Date.now() }}
       />
       <FormattedMessage id="hello" defaultMessage="Olá!" />
+      <FormattedMessage id="bye" defaultMessage="Tchau!" />
     </>
   );
 }
