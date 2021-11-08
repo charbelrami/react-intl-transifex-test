@@ -1,0 +1,8 @@
+{
+  "hello": {
+    "string": "Hola!"
+  },
+  "myMessage": {
+    "string": "Hoy es {ts, date, ::yyyyMMdd}"
+  }
+}

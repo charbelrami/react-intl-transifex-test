@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "intl-extract": "formatjs extract src/*.js --format transifex --out-file lang/pt-BR.json"
+    "intl-extract": "formatjs extract src/*.js --format transifex --out-file src/locales/pt-BR.json"
   },
   "eslintConfig": {
     "extends": [
