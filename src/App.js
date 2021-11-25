@@ -5,7 +5,7 @@ import { Example } from "./Example";
 import { LangSelect } from "./LangSelect";
 import { LocaleContext } from "./locale-context";
 import en from "./locales/en.json";
-import es from "./locales/en.json";
+import es from "./locales/es.json";
 
 const messages = {
   en: compileFromTransifexToIntl(en),
