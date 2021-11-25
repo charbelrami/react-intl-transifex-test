@@ -1,4 +1,7 @@
 {
+  "bye": {
+    "string": "Hasta!"
+  },
   "hello": {
     "string": "Hola!"
   },
